@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300');
+
+body{
+
+background: linear-gradient(to right, #f5f5f5, #f5f5f5)
+}
+
+.endrit-mit{
+padding:50px;
+font-family: 'Source Sans Pro', sans-serif;
+font-size:18px;
+
+
+}
+
+.mit-section{
+padding:20px;
+
+}
+
+.mit-title{
+  font-size:30px;
+  font-weight: bold;
+
+}
